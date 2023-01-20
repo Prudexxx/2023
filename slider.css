@@ -3,7 +3,7 @@
     max-width: 30%;
     margin: 20px auto;
     overflow: hidden;
-    max-    height: 500px;
+   
     
     
 }
@@ -20,6 +20,6 @@ h1{
     border: 2px solid seagreen
 }
 button {
-    margin: 0 23% ;
+    
     background: rgb(38, 186, 231);
 }
