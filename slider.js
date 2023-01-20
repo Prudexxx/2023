@@ -8,7 +8,7 @@ function init() {
     sliderLine.style.width = width * images.length + 'px';
     images.forEach(item => {
         item.style.width = width + 'px';
-        
+        item.style.height = 'auto';
     });
     rollSlider();
 }
