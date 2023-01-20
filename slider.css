@@ -23,3 +23,7 @@ button {
     
     background: rgb(38, 186, 231);
 }
+.box {
+    display: flex;
+    justify-content: space-around;
+}
