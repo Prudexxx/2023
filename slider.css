@@ -3,7 +3,7 @@
     max-width: 30%;
     margin: 20px auto;
     overflow: hidden;
-   
+  
     
     
 }
@@ -15,15 +15,14 @@
 h1{
     text-align: center
 }
-.container {
-    
-    border: 2px solid seagreen
-}
+
 button {
-    background-image:  url('Rosa.jpg') ;
     background: rgb(38, 186, 231);
 }
-.box {
+.box{
     display: flex;
     justify-content: space-around;
+}
+body{
+    background:url('Rosa.jpg')center/cover no-repeat;
 }
